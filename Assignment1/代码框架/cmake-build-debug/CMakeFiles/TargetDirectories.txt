@@ -1,0 +1,3 @@
+C:/Users/wzh56/Desktop/Courses/GAMES101/Assignment1/代码框架/cmake-build-debug/CMakeFiles/Rasterizer.dir
+C:/Users/wzh56/Desktop/Courses/GAMES101/Assignment1/代码框架/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wzh56/Desktop/Courses/GAMES101/Assignment1/代码框架/cmake-build-debug/CMakeFiles/rebuild_cache.dir
